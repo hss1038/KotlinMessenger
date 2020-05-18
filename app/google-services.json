@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "603109322756",
+    "firebase_url": "https://chat-d728f.firebaseio.com",
+    "project_id": "chat-d728f",
+    "storage_bucket": "chat-d728f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603109322756:android:27112354a592d7b2ce4551",
+        "android_client_info": {
+          "package_name": "com.ssam.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603109322756-aciia4qqe8eemd4ah2jqo13e6t553ddr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssam.chat",
+            "certificate_hash": "c300180a5cf47c7d02c80f5c275dfa88e5d52735"
+          }
+        },
+        {
+          "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJXFAHrokGHnU5ODM_PiRDt9rHsyxPaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603109322756:android:aca5a827894c4131ce4551",
+        "android_client_info": {
+          "package_name": "com.ssam.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603109322756-bf7mkhs8c32u3j1q2v08bup39elenrls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssam.chatting",
+            "certificate_hash": "c300180a5cf47c7d02c80f5c275dfa88e5d52735"
+          }
+        },
+        {
+          "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJXFAHrokGHnU5ODM_PiRDt9rHsyxPaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603109322756:android:516281ea3ef7bfdcce4551",
+        "android_client_info": {
+          "package_name": "com.ssam.instagramcloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603109322756-17h8g7qb3j59efdv4501ukn6ipdk4m4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssam.instagramcloneapp",
+            "certificate_hash": "c300180a5cf47c7d02c80f5c275dfa88e5d52735"
+          }
+        },
+        {
+          "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJXFAHrokGHnU5ODM_PiRDt9rHsyxPaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603109322756:android:0c5b7c733ecf757ace4551",
+        "android_client_info": {
+          "package_name": "com.ssam.kochat_mungae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603109322756-a16d2eqji6dclf737k42sokfsug59if5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssam.kochat_mungae",
+            "certificate_hash": "c300180a5cf47c7d02c80f5c275dfa88e5d52735"
+          }
+        },
+        {
+          "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJXFAHrokGHnU5ODM_PiRDt9rHsyxPaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603109322756:android:7c6ac77c54730011ce4551",
+        "android_client_info": {
+          "package_name": "com.ssam.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603109322756-v7oraqrv6bhcoucsgja30lpnajb80r4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssam.kotlinmessenger",
+            "certificate_hash": "c300180a5cf47c7d02c80f5c275dfa88e5d52735"
+          }
+        },
+        {
+          "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJXFAHrokGHnU5ODM_PiRDt9rHsyxPaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603109322756-ln9d2dor4ejmm8q1eu2vutu9qgn22aam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
